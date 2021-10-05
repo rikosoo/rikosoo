@@ -36,8 +36,10 @@
 
 - 🔭 I’m currently working on Front-end and mobile.
 - 🌱 I’m currently learning JS and Flutter.
+-  Studying cybersecurity
 - 👯 I’m looking to collaborate on web and mobile.
 - 💬 Ask me about anything.
 - 📫 How to reach me: henrique407@outlook.com
 - ⚡ Fun fact: I am curious and like to explore the unknown.
+
 
