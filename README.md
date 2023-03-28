@@ -1,4 +1,4 @@
-### Hi there 👋 Good morning !!!!!!! I'm Henrique Hoffmann Stefanutti.
+### Hey : ) App Developer and Bug Hunter
 
 <div>
   <a href="https://github.com/rikosoo">
@@ -34,12 +34,11 @@
 
 
 
-- 🔭 I’m currently working on Cybersecurity.
-- 🌱 I’m currently learning JS, Flutter and Kotlin.
+- 🔭 I’m currently working on blueTeam in Cybersecurity.
+- 🌱 I’m currently learning Ruby, Flutter, Kotlin and Angular.
 -  In my free Time I search bugs.
-- 👯 I’m looking to collaborate on web, mobile and security.
-- 💬 Ask me about anything.
+- 👯 I’m looking to collaborate on web, mobile and community.
 - 📫 How to reach me: henrique407@outlook.com
-- ⚡ Fun fact: I am curious and like to explore the unknown.
+- ⚡ Fun fact: I enjoy dancing and learning about other cultures
 
 
