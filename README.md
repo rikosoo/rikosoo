@@ -33,7 +33,7 @@
 
 
 
-
+- 🔭 I am developing applications and sistems.
 - 🔭 I’m currently working on blueTeam in Cybersecurity.
 - 🌱 I’m currently learning Ruby, Flutter, Kotlin and Angular.
 -  In my free Time I search bugs.
