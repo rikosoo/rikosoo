@@ -1,5 +1,7 @@
 ### Hey : ) App Developer and Bug Hunter
 
+<div align = "center">
+
 <div>
   <a href="https://github.com/rikosoo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rikosoo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -30,7 +32,7 @@
 </div>
 
 
-
+</div>
 
 
 - 🔭 I am developing applications and sistems.
