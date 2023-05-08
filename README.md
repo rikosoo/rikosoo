@@ -1,4 +1,4 @@
-### Hey : ) App Developer and Bug Hunter
+### Hey : ) Developing software and searching for bugs on the Internet
 
 <div align = "center">
 
